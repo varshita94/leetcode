@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varshita94/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshita94/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshita94/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0704-binary-search](https://github.com/varshita94/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/varshita94/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/varshita94/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
