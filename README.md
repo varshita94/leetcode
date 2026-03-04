@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/varshita94/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/varshita94/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/varshita94/leetcode/tree/master/0118-pascals-triangle) |
+| [0137-single-number-ii](https://github.com/varshita94/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/varshita94/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshita94/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshita94/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/varshita94/leetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/varshita94/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
