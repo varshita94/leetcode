@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varshita94/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/varshita94/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/varshita94/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/varshita94/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/varshita94/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varshita94/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/varshita94/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/varshita94/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/varshita94/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/varshita94/leetcode/tree/master/0058-length-of-last-word) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/varshita94/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/varshita94/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/varshita94/leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/varshita94/leetcode/tree/master/0509-fibonacci-number) |
