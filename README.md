@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varshita94/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshita94/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/varshita94/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/varshita94/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshita94/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/varshita94/leetcode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/varshita94/leetcode/tree/master/0860-lemonade-change) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varshita94/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/varshita94/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/varshita94/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/varshita94/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/varshita94/leetcode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshita94/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/varshita94/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/varshita94/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/varshita94/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0860-lemonade-change](https://github.com/varshita94/leetcode/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/varshita94/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/varshita94/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
