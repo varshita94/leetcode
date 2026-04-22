@@ -1,32 +1,29 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
+        //initialize an map
         Map<String, List<String>> map = new HashMap<>();
-       
-        //sorting the elements 
-        //finding the common keys
 
         for(String ele : strs)
         {
-            //convert to character array
+            //convert into character array
             char[] arr = ele.toCharArray();
+            //sort the elements in the array
             Arrays.sort(arr);
+            //convert the sorted array to string for keys
 
-            //convert the array back to string for the key part
-            String key = new String(arr);
+            String key =  new String(arr);
+            //check if the key exists in the map
+            //if not then add 
             if(!map.containsKey(key))
             {
-                //add the string as key
-                map.put(key,new ArrayList<>());
+                map.put(key, new ArrayList<String>());
             }
 
+            //now add the string corresponding to their keys
             map.get(key).add(ele);
 
-            
         }
 
-       return new ArrayList<>(map.values());    
-
-
-
+        return new ArrayList<>(map.values()) ;
     }
 }
