@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/varshita94/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/varshita94/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/varshita94/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/varshita94/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/varshita94/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/varshita94/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/varshita94/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/varshita94/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/varshita94/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/varshita94/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/varshita94/leetcode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/varshita94/leetcode/tree/master/0509-fibonacci-number) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/varshita94/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/varshita94/leetcode/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/varshita94/leetcode/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/varshita94/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Monotonic Queue
