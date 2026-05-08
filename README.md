@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/varshita94/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/varshita94/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshita94/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/varshita94/leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/varshita94/leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/varshita94/leetcode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/varshita94/leetcode/tree/master/0860-lemonade-change) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/varshita94/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/varshita94/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshita94/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/varshita94/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/varshita94/leetcode/tree/master/0567-permutation-in-string) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/varshita94/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## String
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/varshita94/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/varshita94/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshita94/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/varshita94/leetcode/tree/master/0496-next-greater-element-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/varshita94/leetcode/tree/master/0206-reverse-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/varshita94/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
