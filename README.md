@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/varshita94/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/varshita94/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1710-maximum-units-on-a-truck](https://github.com/varshita94/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1929-concatenation-of-array](https://github.com/varshita94/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/varshita94/leetcode/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/varshita94/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
