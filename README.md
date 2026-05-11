@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/varshita94/leetcode/tree/master/0860-lemonade-change) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/varshita94/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/varshita94/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshita94/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/varshita94/leetcode/tree/master/1470-shuffle-the-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/varshita94/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1929-concatenation-of-array](https://github.com/varshita94/leetcode/tree/master/1929-concatenation-of-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/varshita94/leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/varshita94/leetcode/tree/master/0645-set-mismatch) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/varshita94/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshita94/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/varshita94/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/varshita94/leetcode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/varshita94/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshita94/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/varshita94/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/varshita94/leetcode/tree/master/1929-concatenation-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshita94/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
