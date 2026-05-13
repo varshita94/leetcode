@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/varshita94/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/varshita94/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/varshita94/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/varshita94/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/varshita94/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/varshita94/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/varshita94/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/varshita94/leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/varshita94/leetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/varshita94/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/varshita94/leetcode/tree/master/0645-set-mismatch) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varshita94/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/varshita94/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/varshita94/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/varshita94/leetcode/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/varshita94/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/varshita94/leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/varshita94/leetcode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/varshita94/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Counting Sort
