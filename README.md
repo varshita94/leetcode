@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/varshita94/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/varshita94/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/varshita94/leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/varshita94/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshita94/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/varshita94/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/varshita94/leetcode/tree/master/0496-next-greater-element-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varshita94/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/varshita94/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/varshita94/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/varshita94/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/varshita94/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/varshita94/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varshita94/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/varshita94/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/varshita94/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshita94/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/varshita94/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varshita94/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshita94/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/varshita94/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/varshita94/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/varshita94/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshita94/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/varshita94/leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -178,10 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshita94/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/varshita94/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/varshita94/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshita94/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/varshita94/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Queue
 |  |
 | ------- |
@@ -191,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/varshita94/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/varshita94/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/varshita94/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/varshita94/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Math
@@ -272,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/varshita94/leetcode/tree/master/0155-min-stack) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/varshita94/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
