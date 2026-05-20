@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/varshita94/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/varshita94/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/varshita94/leetcode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/varshita94/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/varshita94/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/varshita94/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/varshita94/leetcode/tree/master/0567-permutation-in-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/varshita94/leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/varshita94/leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/varshita94/leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
