@@ -1,12 +1,11 @@
 class Solution {
     public int search(int[] nums, int target) {
-        //using hash map
-
         Map<Integer, Integer> map = new HashMap<>();
-        int count = 0;
-        for (int ele : nums) {
-            map.put(ele, count);
-            count++;
+        int index = 0;
+        for(int ele : nums)
+        {
+            map.put(ele,index);
+            index++;
         }
 
         if(map.containsKey(target))
