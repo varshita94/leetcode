@@ -1,15 +1,31 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int first = 0, second = 0;
-        //let's try adding the nums2 ele into the 
-        //empty places of nums1 first
-        int j = 0;
-        int len = nums1.length;
-       for(first = m; first < len;first++)
-       {
-            nums1[first] = nums2[j];
-            j++;
-       }
-       Arrays.sort(nums1);
+        int i = m - 1;
+        int j = n - 1;
+        int k = m + n -1;
+
+        while(i >=0 && j>= 0)
+        {
+            if(nums1[i] > nums2[j])
+            {
+                nums1[k] = nums1[i];
+                i--;
+            }
+            else
+            {
+                nums1[k] = nums2[j];
+                j--;
+            }
+            k--;
+        }
+
+        //remaining any in nums2 i.e if all the elements in nums1 are 
+        //greater than that in nums2
+        while(j>=0)
+        {
+            nums1[k] = nums2[j];
+            k--;
+            j--;
+        }
     }
 }
