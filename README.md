@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/varshita94/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/varshita94/leetcode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/varshita94/leetcode/tree/master/0860-lemonade-change) |
+| [0977-squares-of-a-sorted-array](https://github.com/varshita94/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/varshita94/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/varshita94/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshita94/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/varshita94/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/varshita94/leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/varshita94/leetcode/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/varshita94/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/varshita94/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/varshita94/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/varshita94/leetcode/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/varshita94/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varshita94/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/varshita94/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
