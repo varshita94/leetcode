@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/varshita94/leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varshita94/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/varshita94/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/varshita94/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/varshita94/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshita94/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/varshita94/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/varshita94/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/varshita94/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/varshita94/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/varshita94/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/varshita94/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/varshita94/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/varshita94/leetcode/tree/master/0344-reverse-string) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/varshita94/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/varshita94/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/varshita94/leetcode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/varshita94/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/varshita94/leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/varshita94/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
