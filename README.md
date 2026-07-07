@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/varshita94/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/varshita94/leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/varshita94/leetcode/tree/master/0509-fibonacci-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/varshita94/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Recursion
 |  |
 | ------- |
