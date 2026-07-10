@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/varshita94/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/varshita94/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/varshita94/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/varshita94/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/varshita94/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/varshita94/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/varshita94/leetcode/tree/master/0118-pascals-triangle) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/varshita94/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/varshita94/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/varshita94/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/varshita94/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/varshita94/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/varshita94/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/varshita94/leetcode/tree/master/0202-happy-number) |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/varshita94/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/varshita94/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
