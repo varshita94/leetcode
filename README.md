@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varshita94/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/varshita94/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/varshita94/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/varshita94/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/varshita94/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshita94/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/varshita94/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/varshita94/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/varshita94/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshita94/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/varshita94/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/varshita94/leetcode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/varshita94/leetcode/tree/master/0684-redundant-connection) |
 ## Stack
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/varshita94/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varshita94/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/varshita94/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/varshita94/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/varshita94/leetcode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/varshita94/leetcode/tree/master/0684-redundant-connection) |
 ## Divide and Conquer
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/varshita94/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/varshita94/leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/varshita94/leetcode/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/varshita94/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/varshita94/leetcode/tree/master/0200-number-of-islands) |
 ## Trie
 |  |
 | ------- |
